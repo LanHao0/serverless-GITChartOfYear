@@ -1,0 +1,15 @@
+org: orgDemo
+app: mygitComit
+stage: dev
+component: express
+name: mygitComit
+
+inputs:
+  src:
+    src: ./
+    exclude:
+      - .env
+  apigatewayConf:
+    protocols:
+      - http
+      - https
