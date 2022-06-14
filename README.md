@@ -2,11 +2,12 @@
 ### 简介
 本项目使用了使用 **腾讯Serverless  + express + ECharts**，并同时用Serverless对接微信公众号的消息
 用户可以通过网页/公众号查询到自己近期代码提交活动, 并在网页端生成年历图表！
+![image](https://user-images.githubusercontent.com/14994590/173582698-c89af124-8b63-4fa8-8e7c-1060fce3a756.png)
 
 #### 体验地址：
-网页端体验：
-[https://service-a4gbsyqw-1251935409.gz.apigw.tencentcs.com/release/](https://service-a4gbsyqw-1251935409.gz.apigw.tencentcs.com/release/)
-
+网页端体验：(暂无，腾讯云函数收费，暂停展示)
+<s>[https://service-a4gbsyqw-1251935409.gz.apigw.tencentcs.com/release/](https://service-a4gbsyqw-1251935409.gz.apigw.tencentcs.com/release/)
+</s>
 
 ## 搭建
 ### 1.克隆项目
