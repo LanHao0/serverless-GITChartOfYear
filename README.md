@@ -2,6 +2,8 @@
 ### 简介
 本项目使用了使用 **腾讯Serverless  + express + ECharts**，并同时用Serverless对接微信公众号的消息
 用户可以通过网页/公众号查询到自己近期代码提交活动, 并在网页端生成年历图表！
+
+本项目为腾讯云云函数 Serverless 最佳玩家 优秀应用奖： https://mp.weixin.qq.com/s?__biz=Mzg4NzEyMzI1NQ==&mid=2247487869&idx=1&sn=922ccfd88bf5c63a54e29f8461de2103
 ![image](https://user-images.githubusercontent.com/14994590/173582698-c89af124-8b63-4fa8-8e7c-1060fce3a756.png)
 
 #### 体验地址：
